@@ -1,5 +1,5 @@
 # Relationship between Turnout and Votes for PRO-EU Parties in Italy
-**Author:** Stefano Chiesa
+**Author:** [Stefano Chiesa](https://www.linkedin.com/in/stefano-chiesa-8a0502184/)
 
 
 Is there a relationship between the turnout of the European Parliament elections in Italy and the percentage of votes received by pro-EU parties? In this project, I will analyze the data from the European Parliament elections in Italy to answer this question. 
