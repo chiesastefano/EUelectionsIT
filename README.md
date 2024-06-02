@@ -23,5 +23,17 @@ In the repository you can find the following files and directories:
 - data/turnout.xlsx: excel file with the turnout data per each year;
 - requirements.txt: a text file containing the packages used in the code.
 
+## Methodology Note
+The parties are classified through the binary column "PRO_EU", indicating whether the party is pro-EU (1) or not (0). 
+This value is assigned based on my knowledge of Italian politics and internet research. When I wasn't sure about the classification, I assigned a value of NA.
+Someone might disagree with my classification, feel free to contact me if you have any suggestions.
+
+
+## Limits of the Analysis
+The analysis has some limitations:
+- The classification of parties as pro-EU or not is subjective and based on my knowledge of Italian politics and internet research. There might be disagreements about the classification of some parties;
+- The data only includes the European Parliament elections in Italy, and the relationship between voter turnout and votes for pro-EU parties might differ in other elections or countries.
+
+Don't hesitate to contact me if you have any suggestions or questions.
 
 
