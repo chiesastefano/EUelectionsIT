@@ -17,9 +17,11 @@ I performed the following steps:
 
 ## Guide to the files
 In the repository you can find the following files and directories:
-- **EUelectionsIT.ipynb**: Jupyter Notebook presentation of the analysys; 
+- **EUelectionsIT.ipynb**: Jupyter Notebook presentation of the analyses; 
 - data/: containing all the Italian election data;
-- data/all_data.xlsx: excel file with the information about the Italian parties results per each year;
-- data/turnout.xlsx: excel file with the tornout data per each year;
-- requirements.txt: text file containing the papckages used in the code.
+- data/all_data.xlsx: excel file with the information about the Italian parties' results per each year;
+- data/turnout.xlsx: excel file with the turnout data per each year;
+- requirements.txt: a text file containing the packages used in the code.
+
+
 
