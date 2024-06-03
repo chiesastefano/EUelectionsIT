@@ -19,10 +19,10 @@ I performed the following steps:
 In the repository you can find the following files and directories:
 - **EUelectionsIT.ipynb**: Jupyter Notebook presentation of the analyses; 
 - *data/*: containing all the Italian election data;
-- <ins>data/all_data.xlsx</ins>: excel file with the information about the Italian parties' results per each year.
+- *data/all_data.xlsx*: excel file with the information about the Italian parties' results per each year.
   You can find the csv version [here](https://www.kaggle.com/datasets/ilchurch/european-parliament-elections-1979-2019-italy);
-- data/turnout.xlsx: excel file with the turnout data per each year. You can find the csv version [here](https://www.kaggle.com/datasets/ilchurch/european-parliament-elections-turnout-italy);
-- requirements.txt: a text file containing the packages used in the code.
+- *data/turnout.xlsx*: excel file with the turnout data per each year. You can find the csv version [here](https://www.kaggle.com/datasets/ilchurch/european-parliament-elections-turnout-italy);
+- *requirements.txt*: a text file containing the packages used in the code.
 
 ## Methodology Note
 The parties are classified through the binary column "PRO_EU", indicating whether the party is pro-EU (1) or not (0). 
